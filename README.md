@@ -26,7 +26,7 @@ class ViewController: UIViewController {
         updateUI()
     }
     
-    @IBAction func orangeShiftOn(_ sender: Any) {
+    @IBAction func yellowLightOn(_ sender: Any) {
         yellowLightOn = !yellowLightOn
         updateUI()
     }
